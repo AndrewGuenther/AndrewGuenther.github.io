@@ -1,0 +1,68 @@
+==================================================================
+https://keybase.io/andrewguenther
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://ajguenther.com
+  * I am andrewguenther (https://keybase.io/andrewguenther) on keybase.
+  * I have a public key with fingerprint F242 949F FD86 AE74 BE93  587C C8CA E60F 27D0 8777
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "01011db8eed16aef1a31617a365725132b86cc71dfb5b54b50590074319892e2171f0a",
+            "fingerprint": "f242949ffd86ae74be93587cc8cae60f27d08777",
+            "host": "keybase.io",
+            "key_id": "c8cae60f27d08777",
+            "kid": "01011db8eed16aef1a31617a365725132b86cc71dfb5b54b50590074319892e2171f0a",
+            "uid": "f03f7fec3ccf4750c4ab234648d1be19",
+            "username": "andrewguenther"
+        },
+        "service": {
+            "hostname": "ajguenther.com",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1472693121,
+    "expire_in": 157680000,
+    "prev": "de8d4727185e0d9013f94367fe0f8762a2e2cf64114c29bcfacbec2eadaf008f",
+    "seqno": 13,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.56
+Comment: https://keybase.io/crypto
+
+yMIwAnicrZJbSBRRGIB3zW52s4hqNUrGhC67OWduZ2aNCjK6vGxBaJSwzZw5Zx3T
+mXV2VgsxEBUWs5IKDLoZ0uUhkwpKqEi7sFRoVFgEQgTZQzfNLkSWdkbyrcfOy+Gc
+//u/8/8/596MCZ4077eeUHNbPLjL+6jrdNxTmKytqWI0S9/LBKuY3Xhsw6U6jjnh
+3YbOBBkWsADomoyxDiQVE6DyQAJQ5SURciLgOU2WEIJAJ5qoiYImsqLCslDggSIr
+HOYABIRVGT9DDDOC7ahtmA7VEk7gFEEhRJepFQoaVnhRhgjJSMUSSzioszKEkCYW
+WzE3gxanqTG80rDoHT2Ex8r7B/+f646P6QjLE0gw4hEiAhRZJKgaxwuSIOtAw0Bx
+wRi2TbUMU1o1dRtXRuLYdIqxzVT7GRqrMBB2x+v2M86VjDMrkVVGHVHbcixkldJY
+seNEg26qszfqspVYC/+1hDXD1Ok4aUIFtmOGZTJBQEnkGK4WCJCTFB5wwM/gPVHD
+xmHDJUQoySxd7jO4gip1LOuUhUAWMasrLOCJIvAS7ZMlMpQ4lc4BEUkAQECcoiGi
+Ig0jDqu6SlhWJozbV7lpUTdP61Qj1BkzIqbqxG3MVN/pLEr1eNM8kyamuP/MkzY1
+ffz3TX08eVRb+qR7Rx6//thgS3vqibPflh++d/1cnff1kfkv+vc8v5nY0vB1YfNM
+T2/j+ynW3cObm45fsJ//0g5VBuTcNd8/+lfd39rhv57aPTg7q2gk0diadSv/YJmd
++LSko3ko68H5uQd+bMxBOzPfz2m/PblmINk7cfG2bLSr/mHTnJH9eflHW+BQ/tfT
+747UZc/y+ZKX1H0pOa8+xy/e2LS68FSsPN5w/Exf6Dxff5kMRDvWbrh5daP3w5cL
+y1fX+Psyn1avSG44UEJm37lWMNxaei3HF97+NvB7tOelt33a9EK0KONN28+uZ4lA
+yLugsfNkd2d/E+PLqM1dNq8rHQwWXFkXWDV8P5TyB4ucRI8=
+=caUT
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/andrewguenther
+
+==================================================================
