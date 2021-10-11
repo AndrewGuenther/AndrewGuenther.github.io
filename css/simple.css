@@ -90,3 +90,14 @@ a, p {
       display: none;
    }
 }
+
+@media (prefers-color-scheme: dark) {
+   * {
+      background-color: #161616;
+      color: #EDEDED
+   }
+
+   .no-highlight {
+      color: #EDEDED
+   }
+}
